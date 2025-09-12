@@ -1,1 +1,1 @@
-# rsschool-cv
+https://judmi.github.io/rsschool-cv/cv
