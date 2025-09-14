@@ -24,7 +24,7 @@ I'm a passionate ISTQB Certified QA engineer with 8+ years of experience in manu
 
 ---
 ### Code Examples
-A Tic-Tac-Toe game - https://judmi.github.io/tic-tac-toe/
+[Tic-Tac-Toe game](https://judmi.github.io/tic-tac-toe/)
 
 ---
 ### Experience
